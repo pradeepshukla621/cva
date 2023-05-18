@@ -106,6 +106,10 @@ p {
     .big-heading2 {
         font-size: 1.2rem;
     }
+    
+       #nav {
+        font-size: 0.9rem;
+    }
 
 }
 
