@@ -98,6 +98,10 @@ p {
 
 @media(max-width: 850px) {
 
+     #nav {
+        font-size: 0.9rem;
+    }
+    
     .big-heading {
 
         font-size: 1.6rem;
@@ -111,9 +115,10 @@ p {
         font-size: 0.9rem;
     }
     
-       #nav {
-        font-size: 0.9rem;
+    .profile1 {
+    width: 40%;
     }
+     
 
 }
 
