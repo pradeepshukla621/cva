@@ -96,32 +96,6 @@ p {
     font-weight: normal;
 }
 
-@media(max-width: 850px) {
-
-     #nav {
-        font-size: 0.9rem;
-    }
-    
-    .big-heading {
-
-        font-size: 1.6rem;
-    }
-
-    .big-heading2 {
-        font-size: 1rem;
-    }
-    
-    .big-heading3 {
-        font-size: 0.9rem;
-    }
-    
-    .profile1 {
-    width: 40%;
-    }
-     
-
-}
-
 .contact-message {
     width: 40%;
     margin: 40px auto 60px;
@@ -145,6 +119,32 @@ p {
     width: 25%;
     border-radius: 50%;
    margin-top: 25px;
+
+}
+
+@media(max-width: 850px) {
+
+    #nav {
+        font-size: 0.9rem;
+    }
+
+    .big-heading {
+
+        font-size: 1.6rem;
+    }
+
+    .big-heading2 {
+        font-size: 1rem;
+    }
+
+    .big-heading3 {
+        font-size: 0.9rem;
+    }
+
+   
+    .profile1 , .profile2 {
+        width: 50%;
+    }
 
 }
 
